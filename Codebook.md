@@ -78,7 +78,7 @@ The following files are available for the train and test data. Their description
 [76] "fBodyBodyGyroMag-mean()": num **;** "fBodyBodyGyroMag-std()": num **;** "fBodyBodyGyroMag-meanFreq()": num    
 [79] "fBodyBodyGyroJerkMag-mean()": num **;** "fBodyBodyGyroJerkMag-std()": num **;** "fBodyBodyGyroJerkMag-meanFreq()": num
 
-Data Set Characteristics
-Mean and Standard Deviation of Wearable Computing Data
-Number of Observations:  180
-Number of Attributes: 81	
+###Data Set Characteristics
+**Mean and Standard Deviation of Wearable Computing Data**
+- Number of Observations:  180
+- Number of Attributes: 81	
